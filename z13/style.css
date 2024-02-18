@@ -1,0 +1,21 @@
+body {
+    padding: 0 30px;
+}
+
+h1 {
+    font-size: 20px;
+    line-height: normal;
+}
+
+nav {
+    color: #888888;
+}
+
+aside {
+    margin: 20px 0;
+    color: #c4c4c4;
+}
+
+time {
+    color: #6a2cce;
+}
